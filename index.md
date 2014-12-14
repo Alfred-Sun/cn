@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 主页
+title: 主页 - Alfred Sun
 tagline: 为梦想而战！
 group: navigation
 weight: 0
